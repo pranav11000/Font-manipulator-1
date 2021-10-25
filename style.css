@@ -1,0 +1,18 @@
+body{
+background-size: cover;
+}
+canvas{
+    border:5px solid limegreen;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px greenyellow;
+    position: sticky;
+}
+.copy-right-footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}
